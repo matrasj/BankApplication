@@ -1,0 +1,13 @@
+==============================================================================
+User: pozerinhooo   Surname: Matras   Name: Marian
+Transaction type: INPUT  Description: Money input   Value: 100.0
+Transaction ID: 644eec7d-dfa3-4946-9e48-4aa950bf2088
+============================================================================================================================================================
+User: pozerinhooo   Surname: Matras   Name: Marian
+Transaction type: INPUT  Description: Money input   Value: 300.0
+Transaction ID: fbdacd17-8bc8-408d-b97b-38def44b886e
+============================================================================================================================================================
+User: pozerinhooo   Surname: Matras   Name: Marian
+Transaction type: WITHDRAWAL  Description: Withdrawal of money   Value: 600.0
+Transaction ID: 8dc63791-c26a-447c-9658-6c8dad53b5ef
+==============================================================================
